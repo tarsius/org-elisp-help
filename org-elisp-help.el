@@ -7,7 +7,7 @@
 ;; Version: 0.1.0
 ;; Status: beta
 ;; Package-Requires: ((cl-lib "0.2") (org "8.0"))
-;; Homepage: http://tarsius.github.com/org-elisp-help
+;; Homepage: https://github.com/tarsius/org-elisp-help
 ;; Keywords: org, remember, lisp
 
 ;; This file is not part of Org.
