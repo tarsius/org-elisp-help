@@ -119,6 +119,7 @@ function is visited; the default is `describe-variable'."
              (error "Feature %s defining variable %s cannot be found"
                     feature symbol))))))
 
+;;;###autoload
 (defun org-elisp-help-function-insert-link
   (function &optional description)
   "Prompt for a function and insert a \"elisp-function\" link at point."
@@ -147,6 +148,7 @@ function is visited; the default is `describe-variable'."
                       function
                       (or description function))))))
 
+;;;###autoload
 (defun org-elisp-help-variable-insert-link
   (variable &optional description)
   "Prompt for a variable and insert a \"elisp-variable\" link at point."
