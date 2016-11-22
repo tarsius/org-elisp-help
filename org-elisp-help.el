@@ -1,11 +1,8 @@
 ;;; org-elisp-help.el --- org links to emacs-lisp documentation
 
-;; Copyright 2013 Jonas Bernoulli
+;; Copyright (C) 2013-2016  Jonas Bernoulli
 
 ;; Author: Jonas Bernoulli <jonas@bernoul.li>
-;; Created: 20130423
-;; Version: 0.1.0
-;; Status: beta
 ;; Package-Requires: ((cl-lib "0.2") (org "9.0"))
 ;; Homepage: https://github.com/tarsius/org-elisp-help
 ;; Keywords: org, remember, lisp
